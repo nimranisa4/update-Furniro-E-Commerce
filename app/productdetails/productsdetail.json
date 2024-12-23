@@ -1,0 +1,254 @@
+[
+    {
+      "id": "1",
+      "name": "Syltherine",
+      "price": 2500000,
+      "description": "Stylish cafe chair with a modern design. Perfect for living rooms or cafes. Made with high-quality materials, this chair combines comfort with sophistication. Its ergonomic design ensures long-lasting comfort for hours of sitting, while the sleek, minimal aesthetic adds a touch of elegance to any space.",
+      "images": ["/product1.jpg", "/product1.jpg", "/product1.jpg", "/product1.jpg"],
+      "mainImage": "/product1.jpg",
+      "sku": "5001",
+      "category": "Furniture",
+      "tags": ["Sofa", "Home", "Living Room"],
+      "reviews": [
+        {
+          "name": "John Doe",
+          "rating": "★★★★★",
+          "text": "Amazing product!"
+        }
+      ],
+      "badge": { "type": "DISCOUNT", "label": "-30%" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#FF0000", "#00FF00", "#0000FF"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "55 x 30 x 25 cm" },
+        { "label": "Weight", "value": "7 lbs" },
+        { "label": "Material", "value": "Premium wood and metal finishes" },
+        { "label": "Connectivity", "value": "Bluetooth 5.0 and AUX" },
+        { "label": "Battery Life", "value": "Up to 8 hours" }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Elderwood Chair",
+      "price": 150000,
+      "description": "An elegant chair crafted from high-quality wood. A timeless piece for any home. The rich, warm wood tones paired with a sleek, comfortable design make it an ideal addition to any room, whether in a modern or traditional home.",
+      "images": ["/product2.jpg", "/product2.jpg", "/product2.jpg", "/product2.jpg"],
+      "mainImage": "/product2.jpg",
+      "sku": "5002",
+      "category": "Furniture",
+      "tags": ["Chair", "Wooden", "Living Room"],
+      "reviews": [
+        {
+          "name": "Jane Smith",
+          "rating": "★★★★☆",
+          "text": "Beautiful and sturdy chair."
+        },
+        {
+          "name": "Sam Brown",
+          "rating": "★★★★★",
+          "text": "Love the quality!"
+        }
+      ],
+      "badge": { "type": "NEW", "label": "New Arrival" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#8B4513", "#D2691E"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "60 x 30 x 35 cm" },
+        { "label": "Weight", "value": "5 lbs" },
+        { "label": "Material", "value": "Solid wood" },
+        { "label": "Assembly", "value": "Some assembly required" }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Serenity Sofa",
+      "price": 800000,
+      "description": "A comfortable and luxurious sofa with a soft fabric that adds a touch of elegance. The plush cushions and deep seating ensure maximum comfort, while the timeless design blends seamlessly with any decor.",
+      "images": ["/product3.jpg", "/product3.jpg", "/product3.jpg", "/product3.jpg"],
+      "mainImage": "/product3.jpg",
+      "sku": "5003",
+      "category": "Furniture",
+      "tags": ["Sofa", "Comfort", "Living Room"],
+      "reviews": [
+        {
+          "name": "Alice Green",
+          "rating": "★★★★★",
+          "text": "Extremely comfortable and stylish!"
+        },
+        {
+          "name": "Mark Lee",
+          "rating": "★★★★☆",
+          "text": "Great quality, but a bit firm."
+        }
+      ],
+      "badge": { "type": "DISCOUNT", "label": "-15%" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#F5F5F5", "#C0C0C0"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "90 x 35 x 40 cm" },
+        { "label": "Weight", "value": "15 kg" },
+        { "label": "Material", "value": "Fabric, Foam, Wood" },
+        { "label": "Warranty", "value": "2 years" }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Heritage Armchair",
+      "price": 400000,
+      "description": "A vintage armchair with classic wooden accents. Perfect for traditional home settings. This chair is a beautiful example of craftsmanship, featuring ornate wood detailing and a comfortable seat.",
+      "images": ["/product4.jpg", "/product4.jpg", "/product4.jpg", "/product4.jpg"],
+      "mainImage": "/product4.jpg",
+      "sku": "5004",
+      "category": "Furniture",
+      "tags": ["Armchair", "Vintage", "Living Room"],
+      "reviews": [
+        {
+          "name": "Steve Walker",
+          "rating": "★★★★☆",
+          "text": "Classic design, very comfortable."
+        },
+        {
+          "name": "Diana White",
+          "rating": "★★★★★",
+          "text": "Fits perfectly in my living room."
+        }
+      ],
+      "badge": { "type": "SALE", "label": "Limited Time Offer" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#000000", "#A52A2A"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "50 x 25 x 35 cm" },
+        { "label": "Weight", "value": "8 kg" },
+        { "label": "Material", "value": "Wood, Upholstered Fabric" },
+        { "label": "Care Instructions", "value": "Clean with a soft cloth" }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Luxor Bed",
+      "price": 3500000,
+      "description": "A high-end bed made from premium materials for the ultimate sleep experience. The bed's plush, memory foam mattress contours to your body, providing optimal support throughout the night.",
+      "images": ["/product5.jpg", "/product5.jpg", "/product5.jpg", "/product5.jpg"],
+      "mainImage": "/product5.jpg",
+      "sku": "5005",
+      "category": "Furniture",
+      "tags": ["Bed", "Luxury", "Bedroom"],
+      "reviews": [
+        {
+          "name": "Catherine King",
+          "rating": "★★★★★",
+          "text": "Best bed I've ever owned!"
+        },
+        {
+          "name": "John Carter",
+          "rating": "★★★★☆",
+          "text": "Extremely comfortable but pricey."
+        }
+      ],
+      "badge": { "type": "DISCOUNT", "label": "-10%" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#8B0000", "#FF6347"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "180 x 200 cm" },
+        { "label": "Weight", "value": "35 kg" },
+        { "label": "Material", "value": "Memory foam, Wood" },
+        { "label": "Assembly", "value": "Full assembly required" }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Urban Coffee Table",
+      "price": 450000,
+      "description": "A sleek and modern coffee table that adds style and functionality to any living room. Its minimalist design and clean lines create an elegant focal point in the room.",
+      "images": ["/product6.jpg", "/product6.jpg", "/product6.jpg", "/product6.jpg"],
+      "mainImage": "/product6.jpg",
+      "sku": "5006",
+      "category": "Furniture",
+      "tags": ["Table", "Modern", "Living Room"],
+      "reviews": [
+        {
+          "name": "Oliver Harris",
+          "rating": "★★★★★",
+          "text": "Perfect size for my living room!"
+        },
+        {
+          "name": "Sophia Wright",
+          "rating": "★★★★☆",
+          "text": "Looks great, but the surface scratches easily."
+        }
+      ],
+      "badge": { "type": "NEW", "label": "New Arrival" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#808080", "#C0C0C0"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "120 x 60 x 45 cm" },
+        { "label": "Weight", "value": "10 kg" },
+        { "label": "Material", "value": "Glass, Steel" },
+        { "label": "Assembly", "value": "Easy assembly" }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Vivid Art Canvas",
+      "price": 120000,
+      "description": "A beautiful piece of art that brings color and life to any wall in your home. The vibrant hues and intricate details of this canvas art make it a stunning addition to any room.",
+      "images": ["/product7.png", "/product7.png", "/product7.png", "/product7.png"],
+      "mainImage": "/product7.png",
+      "sku": "5007",
+      "category": "Art",
+      "tags": ["Wall Art", "Canvas", "Home Decor"],
+      "reviews": [
+        {
+          "name": "Rebecca Smith",
+          "rating": "★★★★☆",
+          "text": "The colors are vibrant, looks great on my wall."
+        },
+        {
+          "name": "Daniel Thompson",
+          "rating": "★★★★★",
+          "text": "High-quality print, very pleased."
+        }
+      ],
+      "badge": { "type": "SALE", "label": "30% OFF" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#FF4500", "#FFD700", "#32CD32"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "50 x 70 cm" },
+        { "label": "Material", "value": "Canvas, Ink" },
+        { "label": "Care Instructions", "value": "Wipe with a dry cloth" }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Mountain View Rug",
+      "price": 250000,
+      "description": "A premium quality rug that adds a luxurious touch to any room with its soft texture. The rug's plush fibers provide comfort underfoot, while the intricate design and neutral tones ensure it complements any interior style.",
+      "images": ["/product8.png", "/product8.png", "/product8.png", "/product8.png"],
+      "mainImage": "/product8.png",
+      "sku": "5008",
+      "category": "Home Decor",
+      "tags": ["Rug", "Living Room", "Bedroom"],
+      "reviews": [
+        {
+          "name": "Michael Evans",
+          "rating": "★★★★★",
+          "text": "Soft and beautiful, fits my living room perfectly."
+        },
+        {
+          "name": "Emily Johnson",
+          "rating": "★★★★☆",
+          "text": "Lovely design, but a little expensive."
+        }
+      ],
+      "badge": { "type": "NEW", "label": "New Arrival" },
+      "sizes": ["Small", "Medium", "Large"],
+      "colors": ["#A52A2A", "#F5DEB3"],
+      "additionalInfo": [
+        { "label": "Dimensions", "value": "200 x 300 cm" },
+        { "label": "Weight", "value": "12 kg" },
+        { "label": "Material", "value": "Polyester, Wool" },
+        { "label": "Care Instructions", "value": "Vacuum regularly" }
+      ]
+    }
+  ]
+  
